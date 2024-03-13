@@ -134,7 +134,21 @@ img {
 font-size: 40px;
   }
 
-  .img-fluid {
+  .col-md-6 img {
     display: none;
   }
+ #contact h2 {
+  font-size: 25px
+ }
+ .email-link {
+  font-size: 20px;
+ }
+ .homepage-link {
+  display: none;
+ }
+ .big-title {
+  h2 {
+    display: none;
+  }
+ }
 }
